@@ -1,0 +1,68 @@
+Auto nr: 123ABC
+Mark: Toyota
+Väljalaskeaasta: 2018
+Hind: 15600
+Auto nr: 456DEF
+Mark: Volkswagen
+Väljalaskeaasta: 2020
+Hind: 22400
+Auto nr: 789GHI
+Mark: BMW
+Väljalaskeaasta: 2019
+Hind: 31500
+Auto nr: 234JKL
+Mark: Audi
+Väljalaskeaasta: 2021
+Hind: 35800
+Auto nr: 567MNO
+Mark: Skoda
+Väljalaskeaasta: 2017
+Hind: 10200
+Auto nr: 345STU
+Mark: Hyundai
+Väljalaskeaasta: 2016
+Hind: 8500
+Auto nr: 678VWX
+Mark: Mercedes-Benz
+Väljalaskeaasta: 2020
+Hind: 45300
+Auto nr: 901YZA
+Mark: Ford
+Väljalaskeaasta: 2019
+Hind: 14200
+Auto nr: 234BCD
+Mark: Kia
+Väljalaskeaasta: 2018
+Hind: 12600
+Auto nr: 567EFG
+Mark: Nissan
+Väljalaskeaasta: 2017
+Hind: 11300
+Auto nr: 890HIJ
+Mark: Peugeot
+Väljalaskeaasta: 2021
+Hind: 19800
+Auto nr: 123KLM
+Mark: Renault
+Väljalaskeaasta: 2020
+Hind: 16700
+Auto nr: 456NOP
+Mark: Mazda
+Väljalaskeaasta: 2019
+Hind: 18500
+Auto nr: 789QRS
+Mark: Honda
+Väljalaskeaasta: 2022
+Hind: 23900
+Auto nr: 012TUV
+Mark: Citroën
+Väljalaskeaasta: 2018
+Hind: 13400
+Auto nr: 345WXY
+Mark: Opel
+Väljalaskeaasta: 2017
+Hind: 9800
+Auto nr: 678ZAB
+Mark: Subaru
+Väljalaskeaasta: 2021
+Hind: 28600
